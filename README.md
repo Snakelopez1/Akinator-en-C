@@ -5,4 +5,4 @@ El conocimiento solo se genera cuando se mantiene abierto el programa, una vez s
 
 Falta implementación de archivos para conservar el conocimiento que se va realizando conforme lo utilizan.
 
-Este trabajo fue realizado en la clase de Estructuras de Datos en la Escuela Superior de Computo (IPN) con el Profesro Bejamín Luna Benoso
+Este trabajo fue realizado en la clase de Estructuras de Datos en la Escuela Superior de Computo (IPN) con el Profesor Bejamín Luna Benoso
